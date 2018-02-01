@@ -6,7 +6,7 @@ https://www.amazon.com/ESP8266-microcontroller-NodeMCU-WIFI-CP2102/dp/B071WRD25D
 5v relay:
 https://www.amazon.com/dp/B00LW15A4W/ref=cm_sw_r_cp_api_HFYCAb6CNT765
 
-Another option if you are going to use dupont wires:
+Another relay option if you are going to use dupont wires:
 https://www.amazon.com/dp/B00VRUAHLE/ref=cm_sw_r_cp_api_xHYCAbQNX3CE
 
 5v Micro USB Wall Plug (or just use an old cell phone charger):
